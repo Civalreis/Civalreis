@@ -1,4 +1,4 @@
-## Opa! eu sou o civalreis, criador de conteúdo de programação e tecnologia!
+## Opa! eu sou o civalreis, vamos codar?
 <div align="center">
   <a href="https://github.com/civalreis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=civalreis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
