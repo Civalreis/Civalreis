@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img src="https://www.freepnglogos.com/pics/punisher-png-logo" title=""><img src="https://www.freepnglogos.com/uploads/punisher-png-logo/punisher-skull-vectors-black-png-logo-18.png" align="right" width="110" alt="punisher skull vectors black png logo" >
+  <img src="https://www.freepnglogos.com/pics/punisher-png-logo" title=""><img src="https://www.freepnglogos.com/uploads/punisher-png-logo/punisher-skull-vectors-black-png-logo-18.png" align="right" width="100" alt="punisher skull vectors black png logo" >
 </div>
   
   ##
